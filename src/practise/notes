@@ -1,0 +1,9 @@
+// 1. Sort : By using (name, DOB, Age, City)
+// 2. Pagination
+// 3. Search with AutoComplete
+// 4. Add, Delete and Update
+
+// 1. toLowerCase() - convert Higher to toLowerCase
+// 2. toUpperCaser() -convert Lower to toUpperCase
+// 3. LocalCompare - compare a and b 
+// using LocalCompare(a.LocalCompare(b), it returns -1 or 1) => It return -1 it is descending and 1 it is ascending
